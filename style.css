@@ -1,40 +1,50 @@
-.head{
-    text-align: center;
-margin: 100px auto;
-border: 5px solid rgb(221, 169, 36);
-position:relative;
-padding: 25px 1px;
-font-size: 75px;
-font-style: italic;
+.head {
+  text-align: center;
+  margin: 100px auto;
+  border: 5px solid rgb(221, 169, 36);
+  position: relative;
+  padding: 25px 1px;
+  font-size: 75px;
+  font-style: italic;
 }
 
-.cookie{
-    text-align: center;
-    margin: 10px auto;
-    border: 3px solid rgb(208, 26, 56);
-    border-style: solid;
-    padding: 10px 1px;
-    background-color: rgb(231, 235, 33);
-    font-style: oblique;
+.chocolate {
+  text-align: center;
+  margin: 10px auto;
+  border: 3px solid rgb(40, 55, 55);
+  border-style: solid;
+  padding: 10px auto;
+  background-color: rgb(133, 220, 220);
+  font-style: oblique;
+  width: 50vw;
 }
 
-.something{
-    text-align: center;
-    margin: 10 px auto;
-    border: 10px solid blue;
-    border-style: solid;
+.choco {
+  text-align: center;
+  border: 3px hidden;
+  padding: 10px auto;
+  background-color: rgb(133, 220, 220);
+}
+
+.idk {
+  text-align: center;
+  margin: 10 px auto;
+  border: hidden;
+  border-style: solid;
 }
 
 .background {
-background-color: cornflowerblue;
-text-align: center;
-margin: 20px auto;
-border: 3px rgb(34, 31, 31);
-padding: 20px 50px;
-width: 50vw;
+  background-color: rgb(169, 192, 236);
+  text-align: center;
+  margin: 20px auto;
+  border: 3px rgb(34, 31, 31);
+  padding: 20px 50px;
+  width: 60vw;
 }
-h1 { color: rgb(34, 54, 54);}
+h1 {
+  color: rgb(34, 54, 54);
+}
 
 body {
-    background-color: rgb(88, 85, 85);
+  background-color: cornflowerblue;
 }
