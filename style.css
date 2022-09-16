@@ -2,6 +2,7 @@
     text-align: center;
 margin: 100px auto;
 border: 5px solid rgb(221, 169, 36);
+position:relative;
 padding: 25px 1px;
 font-size: 75px;
 font-style: italic;
@@ -10,10 +11,11 @@ font-style: italic;
 .cookie{
     text-align: center;
     margin: 10px auto;
-    border: 10px solid pink;
+    border: 3px solid rgb(208, 26, 56);
     border-style: solid;
-    padding: 1px 1px;
-    background-color: chocolate;
+    padding: 10px 1px;
+    background-color: rgb(231, 235, 33);
+    font-style: oblique;
 }
 
 .something{
