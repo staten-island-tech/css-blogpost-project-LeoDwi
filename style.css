@@ -25,9 +25,16 @@ font-style: italic;
     border-style: solid;
 }
 
-body {
+.background {
 background-color: cornflowerblue;
 text-align: center;
+margin: 20px auto;
+border: 3px rgb(34, 31, 31);
+padding: 20px 50px;
+width: 50vw;
 }
 h1 { color: rgb(34, 54, 54);}
-h2 { color: black;}
+
+body {
+    background-color: rgb(88, 85, 85);
+}
