@@ -6,9 +6,10 @@
   padding: 25px 1px;
   font-size: 75px;
   font-style: italic;
+  width: 50vw;
 }
 
-.chocolate {
+.butter-cookie {
   text-align: center;
   margin: 10px auto;
   border: 3px solid rgb(40, 55, 55);
@@ -16,21 +17,36 @@
   padding: 10px auto;
   background-color: rgb(133, 220, 220);
   font-style: oblique;
-  width: 50vw;
+  width: 45vw;
 }
 
-.choco {
+.butter {
   text-align: center;
   border: 3px hidden;
   padding: 10px auto;
-  background-color: rgb(133, 220, 220);
+  background-image: url(img/buttercookie.jpg);
 }
 
-.idk {
+.ginger {
   text-align: center;
-  margin: 10 px auto;
+  margin: 10px auto;
   border: hidden;
   border-style: solid;
+  width: 45vw;
+}
+
+.gingerbread {
+  text-align: center;
+  margin: 10px auto;
+  width: 45vw;
+}
+
+.molasses {
+  text-align: center;
+  margin: 10px auto;
+  border: hidden;
+  border-style: solid;
+  width: 45vw;
 }
 
 .background {
