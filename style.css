@@ -1,4 +1,4 @@
-.head {
+#head {
   text-align: center;
   margin: 100px auto;
   border: 5px solid rgb(221, 169, 36);
@@ -7,54 +7,74 @@
   font-size: 70px;
   width: 50vw;
   font-family: "Oswald", sans-serif;
-  border-radius: 1000px;
+  border-radius: 10px;
 }
 
-.butter-cookie {
+.butterhead {
   text-align: center;
-  margin: 10px auto;
+  margin: 50px auto;
   border: 3px solid rgb(40, 55, 55);
   border-style: solid;
   padding: 10px auto;
-  background-image: url(img/buttercookie.jpg);
   width: 45vw;
   font-family: "Oswald", sans-serif;
-  border-radius: 20px;
+  border-radius: 15px;
 }
 
-.butter {
+.butterbody {
   text-align: center;
   border: 3px hidden;
   padding: 10px auto;
   font-family: "Kalam", cursive;
-  border-radius: 20px;
+  border-radius: 15px;
 }
 
-.ginger {
+.butterimage {
+  width: 45vw;
+}
+
+.gingerhead {
   text-align: center;
-  margin: 10px auto;
+  margin: 50px auto;
   border: hidden;
   border-style: solid;
   width: 45vw;
   font-family: "Oswald", sans-serif;
-  border-radius: 20px;
+  border-radius: 15px;
 }
 
-.gingerbread {
+.gingerbody {
   text-align: center;
   margin: 10px auto;
   width: 45vw;
-  border-radius: 20px;
+  border-radius: 15px;
+  font-family: "Kalam", cursive;
 }
 
-.molasses {
+.gingerimage {
+  width: 45vw;
+}
+
+.almondhead {
   text-align: center;
-  margin: 10px auto;
+  margin: 50px auto;
   border: hidden;
   border-style: solid;
   width: 45vw;
   font-family: "Oswald", sans-serif;
-  border-radius: 20px;
+  border-radius: 15px;
+}
+
+.almondbody {
+  text-align: center;
+  margin: 10px auto;
+  width: 45vw;
+  border-radius: 15px;
+  font-family: "Kalam", cursive;
+}
+
+.almondimage {
+  width: 45vw;
 }
 
 .background {
