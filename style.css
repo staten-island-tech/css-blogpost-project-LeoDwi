@@ -4,9 +4,9 @@
   border: 5px solid rgb(221, 169, 36);
   position: relative;
   padding: 25px 1px;
-  font-size: 75px;
-  font-style: italic;
+  font-size: 70px;
   width: 50vw;
+  font-family: "Oswald", sans-serif;
 }
 
 .butter-cookie {
@@ -15,16 +15,16 @@
   border: 3px solid rgb(40, 55, 55);
   border-style: solid;
   padding: 10px auto;
-  background-color: rgb(133, 220, 220);
-  font-style: oblique;
+  background-image: url(img/buttercookie.jpg);
   width: 45vw;
+  font-family: "Oswald", sans-serif;
 }
 
 .butter {
   text-align: center;
   border: 3px hidden;
   padding: 10px auto;
-  background-image: url(img/buttercookie.jpg);
+  font-family: "Kalam", cursive;
 }
 
 .ginger {
@@ -33,6 +33,7 @@
   border: hidden;
   border-style: solid;
   width: 45vw;
+  font-family: "Oswald", sans-serif;
 }
 
 .gingerbread {
@@ -47,6 +48,7 @@
   border: hidden;
   border-style: solid;
   width: 45vw;
+  font-family: "Oswald", sans-serif;
 }
 
 .background {
